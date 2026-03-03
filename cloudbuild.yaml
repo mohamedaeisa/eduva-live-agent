@@ -1,22 +1,50 @@
+substitutions:
+  _SERVICE_NAME: eduva-backend
+  _REGION: us-central1
+  _REPOSITORY: eduva-repo
+
 steps:
+  # Build Docker image
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '-t', 'gcr.io/$PROJECT_ID/eduva-backend', '.']
+    args:
+      [
+        'build',
+        '-t',
+        '${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPOSITORY}/${_SERVICE_NAME}',
+        '.'
+      ]
+
+  # Push Docker image to Artifact Registry
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['push', 'gcr.io/$PROJECT_ID/eduva-backend']
+    args:
+      [
+        'push',
+        '${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPOSITORY}/${_SERVICE_NAME}'
+      ]
+
+  # Deploy to Cloud Run
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
     entrypoint: gcloud
     args:
       [
         'run',
         'deploy',
-        'eduva-backend',
+        '${_SERVICE_NAME}',
         '--image',
-        'gcr.io/$PROJECT_ID/eduva-backend',
+        '${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPOSITORY}/${_SERVICE_NAME}',
         '--region',
-        'us-central1',
+        '${_REGION}',
         '--platform',
         'managed',
-        '--allow-unauthenticated'
+        '--allow-unauthenticated',
+        '--memory',
+        '2Gi',
+        '--cpu',
+        '1'
       ]
+
 images:
-  - 'gcr.io/$PROJECT_ID/eduva-backend'
+  - '${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPOSITORY}/${_SERVICE_NAME}'
+
+options:
+  logging: CLOUD_LOGGING_ONLY
