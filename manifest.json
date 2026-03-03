@@ -1,0 +1,29 @@
+{
+  "name": "EDUVA-Me - Education & Evaluation",
+  "short_name": "EDUVA-Me",
+  "description": "Smart AI platform for student education and evaluation. Educate · Evaluate.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./logo.svg?v=2",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "./logo.svg?v=2",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./logo.svg?v=2",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

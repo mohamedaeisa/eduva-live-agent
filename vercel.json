@@ -1,0 +1,22 @@
+{
+    "functions": {
+        "api/**/*": {
+            "maxDuration": 10,
+            "memory": 1024
+        }
+    },
+    "rewrites": [
+        {
+            "source": "/api/monetization/:match*",
+            "destination": "/api/monetization"
+        },
+        {
+            "source": "/api/(.*)",
+            "destination": "/api/$1"
+        },
+        {
+            "source": "/((?!api/|src/|public/|node_modules/|sw.js|manifest.json|favicon.ico|@|_|.*\\..*).*)",
+            "destination": "/index.html"
+        }
+    ]
+}

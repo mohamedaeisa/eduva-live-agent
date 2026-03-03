@@ -1,0 +1,7 @@
+{
+  "name": "EDUVA-Me 7.0_new Dashboard_pro",
+  "description": "Enterprise AI platform for Education. Featuring Parent Co-Pilot, Closing the Loop between Home and Study.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

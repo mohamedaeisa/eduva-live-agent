@@ -1,0 +1,605 @@
+import { Language } from './types';
+
+export const TRANSLATIONS = {
+    [Language.ENGLISH]: {
+        // ═══════════════════════════════════════════
+        // COMMON (Shared across platform)
+        // ═══════════════════════════════════════════
+        appTitle: "EDUVA-Me",
+        developedBy: "Developed by Mohamed Eisa",
+        back: "Back",
+        exit: "Exit",
+        logout: "Logout",
+        save: "Save",
+        cancel: "Cancel",
+        delete: "Delete",
+        edit: "Edit",
+        close: "Close",
+        loading: "Loading...",
+        error: "Error",
+        success: "Success",
+        confirm: "Confirm",
+
+        // Navigation
+        menuCreate: "Home",
+        menuDashboard: "Growth Mirror",
+        menuGamification: "Achievements",
+        menuLibrary: "Library",
+        backDashboard: "Back to Dashboard",
+
+        // Gamification (existing)
+        level: "Level",
+        xp: "XP",
+        streak: "Streak",
+        weeklyChallenge: "Weekly Challenge",
+        challengeTitle: "Mastery Sprint",
+        challengeDesc: "Complete 5 study sessions this week to earn a special reward.",
+        challengeReward: "Double XP",
+        trophyRoom: "Trophy Room",
+        leaderboard: "Leaderboard",
+        badgeFirstStep: "First Step",
+        badgeQuizMaster: "Quiz Master",
+        badgeNoteTaker: "Note Taker",
+        badgeStreak3: "Hot Streak",
+        badgeScholar: "Scholar",
+
+        // General Study
+        subject: "Subject",
+        eduLevel: "Grade Level",
+        curriculum: "Curriculum",
+        language: "Language",
+        exportPdf: "Export as PDF",
+        shareApp: "Share App",
+        appLinkCopied: "Link Copied!",
+
+        // ═══════════════════════════════════════════
+        // PARENT MODULE (Legacy Flat Keys - To be Deprecated)
+        // ═══════════════════════════════════════════
+        parentHub: "Parent Hub",
+        parentHubSubtitle: "Your child's learning journey",
+        selectStudent: "Select Student",
+        linkedStudents: "Linked Students",
+        noStudentsLinked: "No students linked to your account",
+        learningCompass: "Learning Compass",
+        overallSignal: "Overall Learning Signal",
+        conceptsInProgress: "Concepts In Progress",
+        expanding: "Expanding",
+        stable: "Stable",
+        needsSupport: "Needs Support",
+        stabilityTrend: "Stability Trend",
+        lastUpdated: "Last Updated",
+        viewDetails: "View Details",
+        signalExpanding: "Expanding",
+        signalStable: "Stable",
+        signalNeedsSupport: "Needs Support",
+        signalDescription: "How your child is progressing",
+        subjectProgress: "Subject Progress",
+        allSubjects: "All Subjects",
+        conceptsCovered: "Concepts Covered",
+        recentActivity: "Recent Activity",
+        practiceNeeded: "Practice Needed",
+        onTrack: "On Track",
+        excelling: "Excelling",
+        progressReport: "Progress Report",
+        coveredConcepts: "Covered Concepts",
+        momentum: "Momentum",
+        momentumRising: "Rising",
+        momentumStable: "Stable",
+        momentumSlowing: "Slowing",
+        lastPracticed: "Last Practiced",
+        daysAgo: "days ago",
+        conceptsTotal: "Total Concepts",
+        dataUnavailable: "Data unavailable",
+        noConceptsYet: "No concepts covered yet",
+        masteredConcepts: "Mastered Concepts",
+        pendingConcepts: "Pending Concepts",
+        recentMomentum: "Recent Momentum",
+        masteryHealth: "Mastery Health",
+        importantReminder: "Important Reminder",
+        chapterTimeline: "Chapter / File Timeline",
+
+        // ═══════════════════════════════════════════
+        // PARENT MODULE (NEW NESTED STRUCTURE - STRICT)
+        // ═══════════════════════════════════════════
+        parent: {
+            signals: {
+                effort: "Effort",
+                focus: "Focus",
+                understanding: "Understanding",
+                recovery: "Recovery",
+                improving: "Improving",
+                settling: "Settling",
+                building: "Building",
+                strong: "Strong",
+                developing: "Developing",
+                exploring: "Exploring",
+                stable: "Stable",
+                fragile: "Fragile"
+            },
+            status: {
+                steady: "Steady",
+                variable: "Variable",
+                light: "Light",
+                high: "High",
+                medium: "Medium",
+                needs_support: "Needs Support",
+                stable_progressing: "Stable & Progressing",
+                effortful_steady: "Effortful but Steady",
+                temporarily_challenging: "Temporarily Challenging",
+                light_engagement: "Light Engagement"
+            },
+            compass: {
+                recommendation: {
+                    strong: "Your child is learning steadily and responding well to challenges.",
+                    stable: "Learning is progressing at a healthy pace with consistent engagement.",
+                    needs_support: "Your child may benefit from additional encouragement and support."
+                },
+                supportStance: {
+                    needs_support: "Encourage effort and persistence. Avoid focusing on results.",
+                    light: "Acknowledge persistence and consistency.",
+                    default: "Celebrate effort, not outcomes."
+                },
+                subjectStance: {
+                    stable_progressing: "Encourage effort, not outcomes.",
+                    effortful_steady: "Normalize difficulty and be patient.",
+                    temporarily_challenging: "Give space — confidence is building.",
+                    light_engagement: "Acknowledge persistence and consistency.",
+                    default: "Support their learning journey."
+                }
+            },
+            footer: {
+                philosophy: "EDUVA supports healthy learning relationships by focusing on experience, not grades."
+            },
+            report: {
+                no_data: "No Subject Data Yet",
+                data_coming: "Subject learning experiences will appear after your child completes activities.",
+                no_progress: "No Progress Data Yet",
+                progress_coming: "Progress data will be available after your child completes activities in this subject.",
+                structural_coverage: "Structural Coverage",
+                back_subjects: "Back to Subjects",
+                total_not_defined: "Total not yet defined",
+                mastery_description: "Overall concept retention and understanding state",
+                reminder_content: "EDUVA separates syllabus coverage from concept mastery. Progress in one file does not imply mastery of the subject.",
+                timeline_status: {
+                    completed: "Completed",
+                    in_progress: "In Progress",
+                    not_started: "Not Started"
+                }
+            }
+        },
+
+        // ═══════════════════════════════════════════
+        // QUIZ MODULE V2
+        // ═══════════════════════════════════════════
+        quizTitle: "Practice Matrix",
+        quizSubtitle: "Adaptive Quiz",
+        generateQuiz: "Generate Quiz",
+        startQuiz: "Start Quiz",
+        quit: "Quit",
+        quizComplete: "Quiz Complete!",
+        selectSubject: "Select Subject",
+        selectDifficulty: "Select Difficulty",
+        questionCount: "Number of Questions",
+        easy: "Easy",
+        medium: "Medium",
+        hard: "Hard",
+        question: "Question",
+        of: "of",
+        progress: "Progress",
+        depth: "Depth",
+        pool: "Pool",
+        left: "left",
+        multipleChoice: "Multiple Choice",
+        fillInBlank: "Fill in the Blank",
+        matching: "Matching",
+        trueFalse: "True/False",
+        submit: "Submit",
+        next: "Next",
+        previous: "Previous",
+        skipQuestion: "Skip",
+        showHint: "Show Hint",
+        checkAnswer: "Check Answer",
+        correct: "Correct!",
+        incorrect: "Incorrect",
+        tryAgain: "Try Again",
+        wellDone: "Well Done!",
+        keepGoing: "Keep Going!",
+        almostThere: "Almost There!",
+        yourScore: "Your Score",
+        questionsAnswered: "Questions Answered",
+        accuracy: "Accuracy",
+        timeSpent: "Time Spent",
+        reviewAnswers: "Review Answers",
+        retakeQuiz: "Retake Quiz",
+        recall: "Recall",
+        apply: "Apply",
+        analyze: "Analyze",
+
+        // ═══════════════════════════════════════════
+        // STUDENT COMPASS
+        // ═══════════════════════════════════════════
+        yourCompass: "Your Learning Compass",
+        overallProgress: "Overall Progress",
+        strengthAreas: "Strength Areas",
+        growthAreas: "Growth Opportunities",
+        recentBreakthroughs: "Recent Breakthroughs",
+        upcomingChallenges: "Upcoming Challenges",
+        reflectionPrompt: "How do you feel about your progress today?",
+        setGoal: "Set a Learning Goal",
+        viewHistory: "View History",
+        yourSignal: "Your Signal",
+        keepPracticing: "Keep Practicing",
+        youAreExcelling: "You're Excelling!",
+        steadyProgress: "Steady Progress",
+
+        // ═══════════════════════════════════════════
+        // LIBRARY MODULE
+        // ═══════════════════════════════════════════
+        controlPlane: "Control Plane",
+        allDocs: "All Docs",
+        pending: "Pending",
+        trained: "Trained",
+        newFolder: "New Folder",
+        upload: "Upload",
+        uploadDocument: "Upload Document",
+        selectFile: "Select File",
+        fileName: "Filename",
+        status: "Status",
+        action: "Action",
+        train: "Train",
+        retrain: "Retrain",
+        viewLogs: "View Logs",
+        rename: "Rename",
+        moveToFolder: "Move to Folder",
+        createFolder: "Create Folder",
+        folderName: "Folder Name",
+        allDocuments: "All Documents",
+        noDocumentsFound: "No Documents Found",
+        statusPending: "Pending",
+        statusTraining: "Training...",
+        statusReady: "Ready",
+        statusFailed: "Failed",
+        atomsExtracted: "Atoms Extracted",
+        profileMatrix: "Profile Matrix",
+        globalView: "Global View",
+
+        // ═══════════════════════════════════════════
+        // NOTES ASSEMBLER
+        // ═══════════════════════════════════════════
+        studyNotes: "Study Notes",
+        notesAssembler: "Notes Assembler",
+        generateNotes: "Generate Notes",
+        selectDocuments: "Select Documents",
+        documentsSelected: "Documents Selected",
+        fullNotes: "Full Notes",
+        cheatSheet: "Cheat Sheet",
+        preview: "Preview",
+        download: "Download",
+        generatingNotes: "Generating Notes...",
+        notesReady: "Notes Ready!",
+
+        // Old keys (backwards compatibility)
+        modePodcast: "Podcast",
+        modeLazy: "Lazy Mode",
+        modeQuiz: "Quiz",
+        modeExam: "Exam",
+        reviewComplete: "Review Complete!",
+        noDueCards: "No cards due for review.",
+        cardShort: "Cards",
+        tapFlip: "Tap to flip",
+        ratingAgain: "Again",
+        ratingHard: "Hard",
+        ratingGood: "Good",
+        ratingEasy: "Easy",
+        revealAnswer: "Reveal Answer",
+        vivaTitle: "Voice Tutor",
+        vivaIntro: "Speak with your AI tutor to verify your knowledge.",
+        vivaSpeaking: "AI is speaking...",
+        vivaListening: "Listening to you...",
+        vivaStart: "Start Voice Mode",
+        vivaEnd: "End Session",
+        scriptView: "View Script",
+        downloadAudio: "Download Audio"
+    },
+
+    [Language.ARABIC]: {
+        // ═══════════════════════════════════════════
+        // COMMON (مشترك عبر المنصة)
+        // ═══════════════════════════════════════════
+        appTitle: "إديوفا-مي",
+        developedBy: "Developed by Mohamed Eisa",
+        back: "رجوع",
+        exit: "خروج",
+        logout: "تسجيل الخروج",
+        save: "حفظ",
+        cancel: "إلغاء",
+        delete: "حذف",
+        edit: "تعديل",
+        close: "إغلاق",
+        loading: "جاري التحميل...",
+        error: "خطأ",
+        success: "نجح",
+        confirm: "تأكيد",
+
+        // التنقل
+        menuCreate: "الرئيسية",
+        menuDashboard: "سجل الدراسة",
+        menuGamification: "الإنجازات",
+        menuLibrary: "المكتبة",
+        backDashboard: "العودة للوحة التحكم",
+
+        // التلعيب (gamification)
+        level: "مستوى",
+        xp: "نقطة",
+        streak: "تتابع",
+        weeklyChallenge: "تحدي الأسبوع",
+        challengeTitle: "ماراثون الإتقان",
+        challengeDesc: "أكمل 5 جلسات دراسية هذا الأسبوع للحصول على مكافأة خاصة.",
+        challengeReward: "نقاط مضاعفة",
+        trophyRoom: "غرفة الجوائز",
+        leaderboard: "لوحة المتصدرين",
+        badgeFirstStep: "الخطوة الأولى",
+        badgeQuizMaster: "خبير الاختبارات",
+        badgeNoteTaker: "مدون الملاحظات",
+        badgeStreak3: "تتابع ناري",
+        badgeScholar: "باحث",
+
+        // عام - دراسة
+        subject: "المادة",
+        eduLevel: "المستوى الدراسي",
+        curriculum: "المنهج",
+        language: "اللغة",
+        exportPdf: "تصدير PDF",
+        shareApp: "مشاركة التطبيق",
+        appLinkCopied: "تم نسخ الرابط!",
+
+        // ═══════════════════════════════════════════
+        // PARENT MODULE (Legacy Flat Keys)
+        // ═══════════════════════════════════════════
+        parentHub: "مركز أولياء الأمور",
+        parentHubSubtitle: "رحلة التعلم لطفلك",
+        selectStudent: "اختر الطالب",
+        linkedStudents: "الطلاب المرتبطون",
+        noStudentsLinked: "لا يوجد طلاب مرتبطون بحسابك",
+        learningCompass: "بوصلة التعلم",
+        overallSignal: "الإشارة العامة للتعلم",
+        conceptsInProgress: "مفاهيم قيد التقدم",
+        expanding: "توسع",
+        stable: "مستقر",
+        needsSupport: "يحتاج دعم",
+        stabilityTrend: "اتجاه الاستقرار",
+        lastUpdated: "آخر تحديث",
+        viewDetails: "عرض التفاصيل",
+        signalExpanding: "توسع",
+        signalStable: "مستقر",
+        signalNeedsSupport: "يحتاج دعم",
+        signalDescription: "كيف يتقدم طفلك",
+        subjectProgress: "تقدم المادة",
+        allSubjects: "جميع المواد",
+        conceptsCovered: "المفاهيم المغطاة",
+        recentActivity: "النشاط الأخير",
+        practiceNeeded: "يحتاج تمرين",
+        onTrack: "على المسار",
+        excelling: "متفوق",
+        progressReport: "تقرير التقدم",
+        coveredConcepts: "المفاهيم المغطاة",
+        momentum: "الزخم",
+        momentumRising: "صاعد",
+        momentumStable: "مستقر",
+        momentumSlowing: "متباطئ",
+        lastPracticed: "آخر تدريب",
+        daysAgo: "أيام مضت",
+        conceptsTotal: "إجمالي المفاهيم",
+        dataUnavailable: "البيانات غير متوفرة",
+        noConceptsYet: "لم يتم تغطية أي مفاهيم بعد",
+        masteredConcepts: "المفاهيم المتقنة",
+        pendingConcepts: "المفاهيم المعلقة",
+        recentMomentum: "الزخم الحالي",
+        masteryHealth: "صحة الإتقان",
+        importantReminder: "تذكير هام",
+        chapterTimeline: "الجدول الزمني للفصل/الملف",
+
+        // ═══════════════════════════════════════════
+        // PARENT MODULE (NEW NESTED STRUCTURE - STRICT ARABIC)
+        // ═══════════════════════════════════════════
+        parent: {
+            signals: {
+                effort: "الجهد",
+                focus: "التركيز",
+                understanding: "الاستيعاب",
+                recovery: "التعافي",
+                improving: "يتحسن",
+                settling: "يستقر",
+                building: "يبني",
+                strong: "قوي",
+                developing: "قيد التطوير",
+                exploring: "يستكشف",
+                stable: "مستقر",
+                fragile: "يحتاج انتباه"
+            },
+            status: {
+                steady: "ثابت",
+                variable: "متغير",
+                light: "بسيط",
+                high: "عالٍ",
+                medium: "متوسط",
+                needs_support: "يحتاج دعم",
+                stable_progressing: "مستقر ومتقدم",
+                effortful_steady: "ثابت مع جهد",
+                temporarily_challenging: "تحدي مؤقت",
+                light_engagement: "مشاركة خفيفة"
+            },
+            compass: {
+                recommendation: {
+                    strong: "طفلك يتعلم بثبات ويستجيب جيداً للتحديات.",
+                    stable: "التعلم يتقدم بوتيرة صحية مع مشاركة مستمرة.",
+                    needs_support: "قد يستفيد طفلك من المزيد من التشجيع والدعم."
+                },
+                supportStance: {
+                    needs_support: "شجع الجهد والمثابرة. تجنب التركيز على النتائج.",
+                    light: "امتدح المثابرة والاستمرارية.",
+                    default: "احتفل بالجهد وليس النتائج."
+                },
+                subjectStance: {
+                    stable_progressing: "شجع الجهد وليس النتائج.",
+                    effortful_steady: "تقبّل الصعوبة وكن صبوراً.",
+                    temporarily_challenging: "امنحه المساحة - الثقة تبنى.",
+                    light_engagement: "امتدح المثابرة والاستمرارية.",
+                    default: "ادعم رحلة تعلمه."
+                }
+            },
+            footer: {
+                philosophy: "EDUVA تدعم علاقات التعلم الصحية من خلال التركيز على التجربة وليس الدرجات."
+            },
+            report: {
+                no_data: "لا توجد بيانات للمادة بعد",
+                data_coming: "ستظهر تجارب تعلم المادة بعد أن يكمل طفلك الأنشطة.",
+                no_progress: "لا توجد بيانات تقدم بعد",
+                progress_coming: "ستتوفر بيانات التقدم بعد أن يكمل طفلك أنشطة في هذه المادة.",
+                structural_coverage: "التغطية الهيكلية",
+                back_subjects: "العودة للمواد",
+                total_not_defined: "الإجمالي غير محدد بعد",
+                mastery_description: "حالة استيعاب المفاهيم والاحتفاظ بها",
+                reminder_content: "تفصل EDUVA بين تغطية المنهج وإتقان المفاهيم. التقدم في ملف واحد لا يعني إتقان المادة بالكامل.",
+                timeline_status: {
+                    completed: "مكتمل",
+                    in_progress: "قيد التقدم",
+                    not_started: "لم يبدأ"
+                }
+            }
+        },
+
+        // ═══════════════════════════════════════════
+        // وحدة الاختبارات V2
+        // ═══════════════════════════════════════════
+        quizTitle: "مصفوفة التدريب",
+        quizSubtitle: "اختبار تكيفي",
+        generateQuiz: "إنشاء اختبار",
+        startQuiz: "بدء الاختبار",
+        quit: "خروج",
+        quizComplete: "اكتمل الاختبار!",
+        selectSubject: "اختر المادة",
+        selectDifficulty: "اختر الصعوبة",
+        questionCount: "عدد الأسئلة",
+        easy: "سهل",
+        medium: "متوسط",
+        hard: "صعب",
+        question: "سؤال",
+        of: "من",
+        progress: "تقدم",
+        depth: "عمق",
+        pool: "مجموعة",
+        left: "متبقي",
+        multipleChoice: "اختيار من متعدد",
+        fillInBlank: "املأ الفراغ",
+        matching: "مطابقة",
+        trueFalse: "صح/خطأ",
+        submit: "إرسال",
+        next: "التالي",
+        previous: "السابق",
+        skipQuestion: "تجاوز",
+        showHint: "إظهار تلميح",
+        checkAnswer: "تحقق من الإجابة",
+        correct: "صحيح!",
+        incorrect: "خطأ",
+        tryAgain: "حاول مرة أخرى",
+        wellDone: "أحسنت!",
+        keepGoing: "استمر!",
+        almostThere: "أوشكت!",
+        yourScore: "نتيجتك",
+        questionsAnswered: "الأسئلة المجابة",
+        accuracy: "الدقة",
+        timeSpent: "الوقت المستغرق",
+        reviewAnswers: "مراجعة الإجابات",
+        retakeQuiz: "إعادة الاختبار",
+        recall: "تذكر",
+        apply: "تطبيق",
+        analyze: "تحليل",
+
+        // ═══════════════════════════════════════════
+        // بوصلة الطالب
+        // ═══════════════════════════════════════════
+        yourCompass: "بوصلتك التعليمية",
+        overallProgress: "التقدم العام",
+        strengthAreas: "مجالات القوة",
+        growthAreas: "فرص النمو",
+        recentBreakthroughs: "إنجازات حديثة",
+        upcomingChallenges: "تحديات قادمة",
+        reflectionPrompt: "كيف تشعر حيال تقدمك اليوم؟",
+        setGoal: "ضع هدف تعليمي",
+        viewHistory: "عرض السجل",
+        yourSignal: "إشارتك",
+        keepPracticing: "استمر بالتمرين",
+        youAreExcelling: "أنت متفوق!",
+        steadyProgress: "تقدم ثابت",
+
+        // ═══════════════════════════════════════════
+        // وحدة المكتبة
+        // ═══════════════════════════════════════════
+        controlPlane: "لوحة التحكم",
+        allDocs: "جميع المستندات",
+        pending: "قيد الانتظار",
+        trained: "مدرب",
+        newFolder: "مجلد جديد",
+        upload: "رفع",
+        uploadDocument: "رفع مستند",
+        selectFile: "اختر ملف",
+        fileName: "اسم الملف",
+        status: "الحالة",
+        action: "إجراء",
+        train: "تدريب",
+        retrain: "إعادة تدريب",
+        viewLogs: "عرض السجلات",
+        rename: "إعادة تسمية",
+        moveToFolder: "نقل إلى مجلد",
+        createFolder: "إنشاء مجلد",
+        folderName: "اسم المجلد",
+        allDocuments: "جميع المستندات",
+        noDocumentsFound: "لم يتم العثور على مستندات",
+        statusPending: "قيد الانتظار",
+        statusTraining: "جاري التدريب...",
+        statusReady: "جاهز",
+        statusFailed: "فشل",
+        atomsExtracted: "ذرات مستخرجة",
+        profileMatrix: "مصفوفة الملف الشخصي",
+        globalView: "عرض شامل",
+
+        // ═══════════════════════════════════════════
+        // مجمّع الملاحظات
+        // ═══════════════════════════════════════════
+        studyNotes: "ملاحظات دراسية",
+        notesAssembler: "مجمّع الملاحظات",
+        generateNotes: "إنشاء ملاحظات",
+        selectDocuments: "اختر المستندات",
+        documentsSelected: "مستندات محددة",
+        fullNotes: "ملاحظات كاملة",
+        cheatSheet: "ورقة غش",
+        preview: "معاينة",
+        download: "تحميل",
+        generatingNotes: "جاري إنشاء الملاحظات...",
+        notesReady: "الملاحظات جاهزة!",
+
+        // مفاتيح قديمة (للتوافق)
+        modePodcast: "بودكاست",
+        modeLazy: "الوضع الكسول",
+        modeQuiz: "اختبار",
+        modeExam: "امتحان",
+        reviewComplete: "اكتملت المراجعة!",
+        noDueCards: "لا توجد بطاقات للمراجعة حالياً.",
+        cardShort: "بطاقة",
+        tapFlip: "انقر للقلب",
+        ratingAgain: "مرة أخرى",
+        ratingHard: "صعب",
+        ratingGood: "جيد",
+        ratingEasy: "سهل",
+        revealAnswer: "كشف الإجابة",
+        vivaTitle: "المعلم الصوتي",
+        vivaIntro: "تحدث مع معلمك الذكي للتحقق من معلوماتك.",
+        vivaSpeaking: "المعلم يتحدث...",
+        vivaListening: "جاري الاستماع...",
+        vivaStart: "بدء الوضع الصوتي",
+        vivaEnd: "إنهاء الجلسة",
+        scriptView: "عرض النص",
+        downloadAudio: "تحميل الصوت"
+    }
+};

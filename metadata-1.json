@@ -1,0 +1,8 @@
+
+{
+  "name": "EDUVA-Me",
+  "description": "EDUVA-Me: The ultimate AI platform for Education and Evaluation. Generate notes, quizzes, and track progress.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

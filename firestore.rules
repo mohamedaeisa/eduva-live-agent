@@ -1,0 +1,90 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Helper: is owner of the data
+    function isOwner(userId) {
+      return request.auth != null && request.auth.uid == userId;
+    }
+
+    // Helper: is admin (Custom Claim)
+    function isAdmin() {
+      return request.auth.token.admin == true;
+    }
+
+    // ==========================================
+    // MONETIZATION MODULE RULES (PA8.2/8.1)
+    // ==========================================
+
+    // PLANS: Public Read, Admin Write Only
+    match /plans/{planId} {
+      allow read: if true; 
+      allow write: if isAdmin();
+    }
+
+    // SUBSCRIPTIONS: Owner Read, No Client Write (Backend Only via API)
+    match /subscriptions/{subId} {
+      allow read: if isOwner(resource.data.ownerUid);
+      allow write: if false; // Writing happens via /api/monetization/webhook
+    }
+
+    // USAGE COUNTERS: Student Read, No Client Write (Backend Only)
+    match /usage_counters/{usageId} {
+      allow read: if isOwner(resource.data.studentUid);
+      allow write: if false; // Writing happens via Server Logic
+    }
+
+    // PAYMENTS: Payer Read, No Client Write
+    match /payments/{paymentId} {
+      allow read: if isOwner(resource.data.payerUid);
+      allow write: if false; 
+    }
+    
+    // DISCOUNTS: Public Read (or restricted list), Admin Write
+    match /discounts/{code} {
+      allow read: if true; // Needed for checkout UI validation
+      allow write: if isAdmin();
+    }
+
+    // ==========================================
+    // EXISTING APP RULES (Secure & Audit Compliant)
+    // ==========================================
+
+    // Users: Owner can read/write their own profile BUT cannot promote themselves
+    match /users/{userId} {
+      allow read: if isOwner(userId);
+      // Deny updates to protected fields: role, plan, subscriptionStatus, etc.
+      allow create: if isOwner(userId); // Initial creation is allowed (firebaseAuth.ts handles default values)
+      allow update: if isOwner(userId) 
+        && (!request.resource.data.diff(resource.data).affectedKeys().hasAny(['role', 'plan', 'subscriptionStatus', 'linkCode']));
+    }
+
+    match /relationships/{relId} {
+      allow read: if request.auth != null && (request.auth.uid == resource.data.parentId || request.auth.uid == resource.data.studentId);
+      allow create, update, delete: if request.auth != null && request.auth.uid == request.resource.data.parentId;
+    }
+    
+    match /active_sessions/{sessId} {
+      allow read, write: if request.auth != null && (request.auth.uid == resource.data.studentId || request.auth.uid == request.resource.data.studentId);
+    }
+    
+    match /local_atoms/{atomId} {
+       allow read, write: if request.auth != null && (request.auth.uid == resource.data.userId || request.auth.uid == request.resource.data.userId);
+    }
+
+    match /parent_nudges/{nudgeId} {
+      allow read, write: if isOwner(resource.data.userId);
+    }
+    
+    match /student_raw_activity/{actId} {
+      allow read, write: if isOwner(resource.data.studentId);
+    }
+    
+    match /student_decisions/{studentId}/{allSubcollections=**} {
+      allow read, write: if isOwner(studentId);
+    }
+
+    // 🔒 DEFAULT DENY ALL
+    // Explicitly denied unless matched above.
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "EDUVA v7 - AI Private Tutor",
+  "description": "Next-generation real-time private teacher. Shares screen, reads PDFs, explains concepts visually, and adapts to your learning pace using Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
