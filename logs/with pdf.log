@@ -1,0 +1,1014 @@
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ App: State transition SPEAKING
+ LiveSessionService: playTurnAudio called. Chunks: 97
+ LiveSessionService: Received message LiveServerMessage
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ LiveSessionService: resetTurn
+ App: State transition LISTENING
+ LiveSessionService: Received resumption handle Cig1cXNjc3NqY213MjQ1OWhjOG95Zmp2Mmw0ZDR6eWx6b2p3a254NGFt
+ DocumentStage: Reasoning pages...
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Sending Nudge (.)
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ LiveSessionService: Sending Nudge (.)
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ DocumentStage: PDF Rendered -> Triggering Initial Capture
+ LiveSessionService: Sending Nudge (.)
+ LiveSessionService: Sending Nudge (.)
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ App: State transition SPEAKING
+ LiveSessionService: playTurnAudio called. Chunks: 105
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: resetTurn
+ App: State transition LISTENING
+ LiveSessionService: Received resumption handle CihyMGd6N3YxNnJhemhuMjE0b2N6MDhuODdzbGczMXpoMGNlM2JweTFu
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Sending Nudge (.)
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+ LiveSessionService: processing queue triggered
+ LiveSessionService: processQueue started. Queue length: 1
+ LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:485 LiveSessionService: processing queue triggered
+liveSessionService.ts:492 LiveSessionService: processQueue started. Queue length: 1
+App.tsx:92 App: State transition SPEAKING
+liveSessionService.ts:561 LiveSessionService: playTurnAudio called. Chunks: 155
+liveSessionService.ts:293 LiveSessionService: Received message LiveServerMessage
+liveSessionService.ts:620 LiveSessionService: resetTurn
+App.tsx:92 App: State transition LISTENING
+liveSessionService.ts:507 LiveSessionService: Received resumption handle CihzMHh0eTVwcXl3bnoycWVlemQ0NmxyeTQzbHZ4dHZ4bzFtNnloNGhu
+liveSessionService.ts:364 LiveSessionService: Sending Nudge (.)
+DocumentStage.tsx:410 DocumentStage: PDF Rendered -> Triggering Initial Capture
+DocumentStage.tsx:192 DocumentStage: Reasoning pages...
+DocumentStage.tsx:192 DocumentStage: Reasoning pages...
+DocumentStage.tsx:410 DocumentStage: PDF Rendered -> Triggering Initial Capture
+App.tsx:204 App: handleStopSession
+liveSessionService.ts:377 LiveSessionService: disconnect called {manual: true}
+liveSessionService.ts:612 LiveSessionService: stopAudioPlayback called
+liveSessionService.ts:612 LiveSessionService: stopAudioPlayback called
+App.tsx:92 App: State transition DISCONNECTED
+liveSessionService.ts:301 LiveSessionService: Session Closed
+liveSessionService.ts:377 LiveSessionService: disconnect called {manual: false}
+liveSessionService.ts:612 LiveSessionService: stopAudioPlayback called
+liveSessionService.ts:612 LiveSessionService: stopAudioPlayback called
+App.tsx:92 App: State transition DISCONNECTED

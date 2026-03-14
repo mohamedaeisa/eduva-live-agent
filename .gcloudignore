@@ -1,0 +1,15 @@
+.gcloudignore
+.git
+.gitignore
+node_modules
+# dist <-- DO NOT IGNORE in Turbo mode
+deploy
+.env
+.env.local
+.vscode
+.agent
+brain
+logs
+*.log
+ps1
+*.ps1

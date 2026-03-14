@@ -1,0 +1,17 @@
+# .gcloudignore
+# This file specifies which files NOT to upload to Google Cloud.
+# We explicitly allow .env.local and dist so they can be used in the build/deploy process.
+
+.git
+.gitignore
+node_modules
+.vercel
+.agent
+brain
+logs
+*.log
+
+# Ensure these are NOT ignored even if they are in .gitignore
+!index.css
+!dist
+!.env.local
